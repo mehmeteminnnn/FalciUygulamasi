@@ -73,9 +73,9 @@ class _FalState extends State<Fal> {
           Card(
             margin: EdgeInsets.symmetric(vertical: 5.0, horizontal: 40.0),
             child: TextField(
-              onChanged: (value) {
+              onChanged: (deger) {
                 setState(() {
-                  isim = value;
+                  isim = deger;
                 });
               },
               controller: _textController,
