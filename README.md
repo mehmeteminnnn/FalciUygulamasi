@@ -29,7 +29,7 @@ Kullanıcı arayüzü, sezgisel ve basit olacak şekilde tasarlanmıştır, böy
 Aşağıda, uygulamanın bazı ekran görüntülerini bulabilirsiniz:
 
 
-<img src="(https://github.com/user-attachments/assets/123637f9-63a8-4d98-a0ac-c490f2df9bdc)" alt="Screenshot 1" width="350"/>
+<img src="https://github.com/user-attachments/assets/123637f9-63a8-4d98-a0ac-c490f2df9bdc" alt="Screenshot 1" width="350"/>
 
 
 ## Katkıda Bulunma
