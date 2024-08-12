@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/123637f9-63a8-4d98-a0ac-c490f2df9bdc" alt="Screenshot 1" width="350"/>
-<img src="https://github.com/user-attachments/assets/8faf4441-5e39-4447-becb-f6ea86560645" alt="Screenshot 2" width="350"/>
-<img src="https://github.com/user-attachments/assets/ed85ff45-0ae7-4260-bcba-ffb7589ff2e8" alt="Screenshot 3" width="350"/>
+<img src="https://github.com/user-attachments/assets/123637f9-63a8-4d98-a0ac-c490f2df9bdc" alt="Screenshot 1" width="250"/>
+<img src="https://github.com/user-attachments/assets/8faf4441-5e39-4447-becb-f6ea86560645" alt="Screenshot 2" width="250"/>
+<img src="https://github.com/user-attachments/assets/ed85ff45-0ae7-4260-bcba-ffb7589ff2e8" alt="Screenshot 3" width="250"/>
 
 # FalciUygulamasi
 
